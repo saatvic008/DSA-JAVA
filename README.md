@@ -12,7 +12,7 @@ This repository documents my complete DSA journey in Java.
 All topics are organized sequentially as covered in the playlist, ensuring strong conceptual foundations and practical implementation skills.
 
 Every solution includes:
-- Problem link (if applicable)
+- Problem link 
 - Approach explanation
 - Time Complexity
 - Space Complexity
@@ -32,7 +32,7 @@ Every solution includes:
 
 ### 🔹 Searching & Sorting
 - Linear Search
-- Binary Search (Variations)
+- Binary Search 
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
@@ -64,7 +64,7 @@ Every solution includes:
 - Traversals (Preorder, Inorder, Postorder)
 - Level Order
 - Binary Search Trees
-- AVL Trees (if covered)
+- AVL Trees
 
 ### 🔹 Heaps
 - Heap Implementation
@@ -81,7 +81,7 @@ Every solution includes:
 - BFS
 - DFS
 - Topological Sort
-- Shortest Path (Basics)
+- Shortest Path 
 
 ### 🔹 Dynamic Programming
 - Basic DP
@@ -122,4 +122,4 @@ DSA-Java/
 
 ## 🚀 Language
 
-Java
+   Java
